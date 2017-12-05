@@ -1,5 +1,5 @@
 # shipping
-This is a repo for a php development zone, used by me for a class.
+This is a docker config for a php development zone, used by me for a class.
 
 It uses docker containers to build the dev zone.
 The images used are:
