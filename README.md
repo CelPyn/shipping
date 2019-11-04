@@ -1,7 +1,6 @@
-# shipping
-This is a docker config for a php development zone, used by me for a class.
+# Shipping
+This is a docker image that contains a basic LAMP stack.
 
-It uses docker containers to build the dev zone.
 The images used are:
   - php:7-apache
   - mysql:5.7
